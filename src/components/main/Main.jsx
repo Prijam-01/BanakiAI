@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import './Main.css'
 import { assets } from '../../assets/assets'
-import { context } from '../../context/Context'
+import { context } from '../../context/context';
 import { ToastContainer, toast } from 'react-toastify';
   import 'react-toastify/dist/ReactToastify.css';
   
