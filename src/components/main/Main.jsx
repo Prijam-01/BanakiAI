@@ -92,7 +92,7 @@ const Main = () => {
 </div>
 
                 <p className='bottominfo'>
-                    This Ai chat is made by banaki4488 with his last 2 brain cell expect errors and bugs 
+                    This Ai chat is made by banki4488 with his last 2 brain cell expect errors and bugs 
                 </p>
             </div>
         </div>
